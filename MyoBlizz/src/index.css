@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.hero {
+  background-image: url("./assets/Image/Untitled design (3).png");
+}
