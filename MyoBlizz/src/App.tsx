@@ -15,7 +15,7 @@ function App() {
               className="w-[210px] hover:scale-90 transition-all float-left ml-8"
             />
           </a>
-          <ul className="hidden xl:flex justify-center items-center text-center ml-18 gap-24 font-medium font-roboto text-white text-lg">
+          <ul className="hidden xl:flex justify-center items-center text-center ml-19 -mr-6 gap-24 font-medium font-roboto text-white text-lg">
             <li>
               <button className="hover:scale-105 transition-all bg-stone-800 bg-opacity-80 border-none rounded-full py-1 px-4 flex-row justify-center align-middle text-center">
                 About
